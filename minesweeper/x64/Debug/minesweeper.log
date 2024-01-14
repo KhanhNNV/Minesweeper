@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\hoctap\c++\minesweeper\minesweeper\main.cpp(145,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\hoctap\c++\minesweeper\minesweeper\main.cpp(1004,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  minesweeper.vcxproj -> D:\hoctap\c++\minesweeper\x64\Debug\minesweeper.exe
